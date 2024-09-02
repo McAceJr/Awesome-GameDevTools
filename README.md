@@ -14,3 +14,5 @@ RenderWare (https://en.wikipedia.org/wiki/RenderWare https://github.com/Smooth-E
 RenderWare is a game engine that is not very well known but is used in lots of older games like the older GTA's and Burnout Paradise.
 
 DragonRuby (https://dragonruby.org/ No GitHub Available) - Game Dev Framework - Proprietary
+
+DragonRuby is a development program that works in MAC, iOS, and Android apps with access to SDKs. Mainly made for companies
