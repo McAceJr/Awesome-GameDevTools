@@ -43,20 +43,15 @@ GameGuru MAX is a engine without coding it uses building blocks instead for quic
 
 # Gane Dev Career Paths
 
-Game Designer
-Creator of the idea for the game with the basic of a story, mechanics, and art style. They then help around in all catagories of Game Creation and help create the game.
+Game Designer - Creator of the idea for the game with the basic of a story, mechanics, and art style. They then help around in all catagories of Game Creation and help create the game.
 
-Level Designer
-Creates the individual areas and puzzles within the game. Creating smaller games inside the main game like mini games and other small things
+Level Designer - Creates the individual areas and puzzles within the game. Creating smaller games inside the main game like mini games and other small things
 
-Game Producers
-Manage the team and make sure they stay in scope. Helps keep the team motivated and the game continue being produced at the quality that everyone wants
+Game Producers - Manage the team and make sure they stay in scope. Helps keep the team motivated and the game continue being produced at the quality that everyone wants
 
-Game Artists
-Creates the theme and almost all the art for the game. Also animates the sprites or models for the game depending on 2D or 3D
+Game Artists - Creates the theme and almost all the art for the game. Also animates the sprites or models for the game depending on 2D or 3D
 
-Game Tester
-Plays the game and makes sure there are no bugs. Along with that game testers find unballances and things that might need to be changed and show them to the team.
+Game Tester - Plays the game and makes sure there are no bugs. Along with that game testers find unballances and things that might need to be changed and show them to the team.
 
 # Game Programming Sub Majors
 - Graphics Programmers
